@@ -1,0 +1,6 @@
+{
+    "name": "matthewnellson/matthewnellson",
+    "description": "Мой PHP пакет",
+    "type": "library",
+    "require": {}
+}
